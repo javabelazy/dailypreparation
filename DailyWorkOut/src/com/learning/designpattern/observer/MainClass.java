@@ -4,7 +4,8 @@
 package com.learning.designpattern.observer;
 
 /**
- * @author valiyakode perambra
+ * @author valiyakode perambra 
+ * kozhikode
  *
  */
 public class MainClass {
